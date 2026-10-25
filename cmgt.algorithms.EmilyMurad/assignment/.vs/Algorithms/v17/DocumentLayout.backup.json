@@ -1,0 +1,439 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\util\\grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|solutionrelative:sources\\util\\grid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\assignment\\agent\\pathfindingagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|solutionrelative:sources\\assignment\\agent\\pathfindingagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|c:\\users\\emily\\downloads\\wormhole nbm07r\\algorithms\\cmgt.algorithms.emilymurad\\cmgt.algorithms.emilymurad\\assignment\\sources\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|solutionrelative:sources\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\algorithmsassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|solutionrelative:sources\\algorithmsassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\util\\vec2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|solutionrelative:sources\\util\\vec2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\util\\rectangleextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|solutionrelative:sources\\util\\rectangleextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\util\\nodelabeldrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|solutionrelative:sources\\util\\nodelabeldrawer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\assignment\\tiles\\tiletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|solutionrelative:sources\\assignment\\tiles\\tiletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\assignment\\tiles\\tiledview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|solutionrelative:sources\\assignment\\tiles\\tiledview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\assignment\\pathfinding\\samplepathfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|solutionrelative:sources\\assignment\\pathfinding\\samplepathfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\assignment\\pathfinding\\recursivepathfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|solutionrelative:sources\\assignment\\pathfinding\\recursivepathfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\assignment\\pathfinding\\pathfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|solutionrelative:sources\\assignment\\pathfinding\\pathfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\assignment\\pathfinding\\breadthfirstpathfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|solutionrelative:sources\\assignment\\pathfinding\\breadthfirstpathfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\assignment\\nodegraph\\sampledungeonnodegraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|solutionrelative:sources\\assignment\\nodegraph\\sampledungeonnodegraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\assignment\\nodegraph\\nodegraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|solutionrelative:sources\\assignment\\nodegraph\\nodegraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\assignment\\nodegraph\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|solutionrelative:sources\\assignment\\nodegraph\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\assignment\\nodegraph\\highleveldungeonnodegraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|solutionrelative:sources\\assignment\\nodegraph\\highleveldungeonnodegraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\assignment\\dungeon\\sufficientdungeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|solutionrelative:sources\\assignment\\dungeon\\sufficientdungeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\assignment\\dungeon\\sampledungeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|solutionrelative:sources\\assignment\\dungeon\\sampledungeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\assignment\\dungeon\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|solutionrelative:sources\\assignment\\dungeon\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\assignment\\dungeon\\gooddungeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|solutionrelative:sources\\assignment\\dungeon\\gooddungeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\assignment\\dungeon\\dungeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|solutionrelative:sources\\assignment\\dungeon\\dungeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\assignment\\dungeon\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|solutionrelative:sources\\assignment\\dungeon\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\assignment\\agent\\samplenodegraphagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|solutionrelative:sources\\assignment\\agent\\samplenodegraphagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\assignment\\agent\\ongraphwaypointagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|solutionrelative:sources\\assignment\\agent\\ongraphwaypointagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\assignment\\agent\\nodegraphagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F25691-4FBE-4BCD-A610-0E740B8F3CED}|Algorithms.csproj|solutionrelative:sources\\assignment\\agent\\nodegraphagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vec2.cs",
+              "DocumentMoniker": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Util\\Vec2.cs",
+              "RelativeDocumentMoniker": "sources\\Util\\Vec2.cs",
+              "ToolTip": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Util\\Vec2.cs",
+              "RelativeToolTip": "sources\\Util\\Vec2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T22:25:57.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NodeLabelDrawer.cs",
+              "DocumentMoniker": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Util\\NodeLabelDrawer.cs",
+              "RelativeDocumentMoniker": "sources\\Util\\NodeLabelDrawer.cs",
+              "ToolTip": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Util\\NodeLabelDrawer.cs",
+              "RelativeToolTip": "sources\\Util\\NodeLabelDrawer.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowCAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T22:25:27.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RectangleExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Util\\RectangleExtensions.cs",
+              "RelativeDocumentMoniker": "sources\\Util\\RectangleExtensions.cs",
+              "ToolTip": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Util\\RectangleExtensions.cs",
+              "RelativeToolTip": "sources\\Util\\RectangleExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T22:25:24.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Grid.cs",
+              "DocumentMoniker": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Util\\Grid.cs",
+              "RelativeDocumentMoniker": "sources\\Util\\Grid.cs",
+              "ToolTip": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Util\\Grid.cs",
+              "RelativeToolTip": "sources\\Util\\Grid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T22:25:20.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TileType.cs",
+              "DocumentMoniker": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Assignment\\Tiles\\TileType.cs",
+              "RelativeDocumentMoniker": "sources\\Assignment\\Tiles\\TileType.cs",
+              "ToolTip": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Assignment\\Tiles\\TileType.cs",
+              "RelativeToolTip": "sources\\Assignment\\Tiles\\TileType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T22:25:09.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TiledView.cs",
+              "DocumentMoniker": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Assignment\\Tiles\\TiledView.cs",
+              "RelativeDocumentMoniker": "sources\\Assignment\\Tiles\\TiledView.cs",
+              "ToolTip": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Assignment\\Tiles\\TiledView.cs",
+              "RelativeToolTip": "sources\\Assignment\\Tiles\\TiledView.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAIAwwE4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T22:25:09.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SamplePathFinder.cs",
+              "DocumentMoniker": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Assignment\\PathFinding\\SamplePathFinder.cs",
+              "RelativeDocumentMoniker": "sources\\Assignment\\PathFinding\\SamplePathFinder.cs",
+              "ToolTip": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Assignment\\PathFinding\\SamplePathFinder.cs",
+              "RelativeToolTip": "sources\\Assignment\\PathFinding\\SamplePathFinder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T22:24:36.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RecursivePathFinder.cs",
+              "DocumentMoniker": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Assignment\\PathFinding\\RecursivePathFinder.cs",
+              "RelativeDocumentMoniker": "sources\\Assignment\\PathFinding\\RecursivePathFinder.cs",
+              "ToolTip": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Assignment\\PathFinding\\RecursivePathFinder.cs",
+              "RelativeToolTip": "sources\\Assignment\\PathFinding\\RecursivePathFinder.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAewDkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T22:24:30.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PathFinder.cs",
+              "DocumentMoniker": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Assignment\\PathFinding\\PathFinder.cs",
+              "RelativeDocumentMoniker": "sources\\Assignment\\PathFinding\\PathFinder.cs",
+              "ToolTip": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Assignment\\PathFinding\\PathFinder.cs",
+              "RelativeToolTip": "sources\\Assignment\\PathFinding\\PathFinder.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAewKEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T22:23:59.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BreadthFirstPathFinder.cs",
+              "DocumentMoniker": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Assignment\\PathFinding\\BreadthFirstPathFinder.cs",
+              "RelativeDocumentMoniker": "sources\\Assignment\\PathFinding\\BreadthFirstPathFinder.cs",
+              "ToolTip": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Assignment\\PathFinding\\BreadthFirstPathFinder.cs",
+              "RelativeToolTip": "sources\\Assignment\\PathFinding\\BreadthFirstPathFinder.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAMwEMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T22:23:53.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SampleDungeonNodeGraph.cs",
+              "DocumentMoniker": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Assignment\\NodeGraph\\SampleDungeonNodeGraph.cs",
+              "RelativeDocumentMoniker": "sources\\Assignment\\NodeGraph\\SampleDungeonNodeGraph.cs",
+              "ToolTip": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Assignment\\NodeGraph\\SampleDungeonNodeGraph.cs",
+              "RelativeToolTip": "sources\\Assignment\\NodeGraph\\SampleDungeonNodeGraph.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T22:23:48.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NodeGraph.cs",
+              "DocumentMoniker": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Assignment\\NodeGraph\\NodeGraph.cs",
+              "RelativeDocumentMoniker": "sources\\Assignment\\NodeGraph\\NodeGraph.cs",
+              "ToolTip": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Assignment\\NodeGraph\\NodeGraph.cs",
+              "RelativeToolTip": "sources\\Assignment\\NodeGraph\\NodeGraph.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAewLQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T22:23:13.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Assignment\\NodeGraph\\Node.cs",
+              "RelativeDocumentMoniker": "sources\\Assignment\\NodeGraph\\Node.cs",
+              "ToolTip": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Assignment\\NodeGraph\\Node.cs",
+              "RelativeToolTip": "sources\\Assignment\\NodeGraph\\Node.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T22:23:10.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HighLevelDungeonNodeGraph.cs",
+              "DocumentMoniker": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Assignment\\NodeGraph\\HighLevelDungeonNodeGraph.cs",
+              "RelativeDocumentMoniker": "sources\\Assignment\\NodeGraph\\HighLevelDungeonNodeGraph.cs",
+              "ToolTip": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Assignment\\NodeGraph\\HighLevelDungeonNodeGraph.cs",
+              "RelativeToolTip": "sources\\Assignment\\NodeGraph\\HighLevelDungeonNodeGraph.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T22:23:07.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SufficientDungeon.cs",
+              "DocumentMoniker": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Assignment\\Dungeon\\SufficientDungeon.cs",
+              "RelativeDocumentMoniker": "sources\\Assignment\\Dungeon\\SufficientDungeon.cs",
+              "ToolTip": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Assignment\\Dungeon\\SufficientDungeon.cs",
+              "RelativeToolTip": "sources\\Assignment\\Dungeon\\SufficientDungeon.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAowF0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T22:23:02.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SampleDungeon.cs",
+              "DocumentMoniker": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Assignment\\Dungeon\\SampleDungeon.cs",
+              "RelativeDocumentMoniker": "sources\\Assignment\\Dungeon\\SampleDungeon.cs",
+              "ToolTip": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Assignment\\Dungeon\\SampleDungeon.cs",
+              "RelativeToolTip": "sources\\Assignment\\Dungeon\\SampleDungeon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T22:22:58.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Assignment\\Dungeon\\Room.cs",
+              "RelativeDocumentMoniker": "sources\\Assignment\\Dungeon\\Room.cs",
+              "ToolTip": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Assignment\\Dungeon\\Room.cs",
+              "RelativeToolTip": "sources\\Assignment\\Dungeon\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T22:22:52.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GoodDungeon.cs",
+              "DocumentMoniker": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Assignment\\Dungeon\\GoodDungeon.cs",
+              "RelativeDocumentMoniker": "sources\\Assignment\\Dungeon\\GoodDungeon.cs",
+              "ToolTip": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Assignment\\Dungeon\\GoodDungeon.cs",
+              "RelativeToolTip": "sources\\Assignment\\Dungeon\\GoodDungeon.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAowHcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T22:22:48.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Dungeon.cs",
+              "DocumentMoniker": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Assignment\\Dungeon\\Dungeon.cs",
+              "RelativeDocumentMoniker": "sources\\Assignment\\Dungeon\\Dungeon.cs",
+              "ToolTip": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Assignment\\Dungeon\\Dungeon.cs",
+              "RelativeToolTip": "sources\\Assignment\\Dungeon\\Dungeon.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAowHEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T22:22:45.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Door.cs",
+              "DocumentMoniker": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Assignment\\Dungeon\\Door.cs",
+              "RelativeDocumentMoniker": "sources\\Assignment\\Dungeon\\Door.cs",
+              "ToolTip": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Assignment\\Dungeon\\Door.cs",
+              "RelativeToolTip": "sources\\Assignment\\Dungeon\\Door.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T22:22:41.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SampleNodeGraphAgent.cs",
+              "DocumentMoniker": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Assignment\\Agent\\SampleNodeGraphAgent.cs",
+              "RelativeDocumentMoniker": "sources\\Assignment\\Agent\\SampleNodeGraphAgent.cs",
+              "ToolTip": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Assignment\\Agent\\SampleNodeGraphAgent.cs",
+              "RelativeToolTip": "sources\\Assignment\\Agent\\SampleNodeGraphAgent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T22:22:35.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PathFindingAgent.cs",
+              "DocumentMoniker": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Assignment\\Agent\\PathFindingAgent.cs",
+              "RelativeDocumentMoniker": "sources\\Assignment\\Agent\\PathFindingAgent.cs",
+              "ToolTip": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Assignment\\Agent\\PathFindingAgent.cs",
+              "RelativeToolTip": "sources\\Assignment\\Agent\\PathFindingAgent.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAUwDAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T22:22:30.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OnGraphWayPointAgent.cs",
+              "DocumentMoniker": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Assignment\\Agent\\OnGraphWayPointAgent.cs",
+              "RelativeDocumentMoniker": "sources\\Assignment\\Agent\\OnGraphWayPointAgent.cs",
+              "ToolTip": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Assignment\\Agent\\OnGraphWayPointAgent.cs",
+              "RelativeToolTip": "sources\\Assignment\\Agent\\OnGraphWayPointAgent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T22:22:26.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "NodeGraphAgent.cs",
+              "DocumentMoniker": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Assignment\\Agent\\NodeGraphAgent.cs",
+              "RelativeDocumentMoniker": "sources\\Assignment\\Agent\\NodeGraphAgent.cs",
+              "ToolTip": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Assignment\\Agent\\NodeGraphAgent.cs",
+              "RelativeToolTip": "sources\\Assignment\\Agent\\NodeGraphAgent.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA5wCQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T22:21:59.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AlgorithmsAssignment.cs",
+              "DocumentMoniker": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\AlgorithmsAssignment.cs",
+              "RelativeDocumentMoniker": "sources\\AlgorithmsAssignment.cs",
+              "ToolTip": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\AlgorithmsAssignment.cs",
+              "RelativeToolTip": "sources\\AlgorithmsAssignment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:43:38.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Program.cs",
+              "RelativeDocumentMoniker": "sources\\Program.cs",
+              "ToolTip": "C:\\Users\\emily\\Downloads\\Wormhole nbM07R\\Algorithms\\cmgt.algorithms.EmilyMurad\\cmgt.algorithms.EmilyMurad\\assignment\\sources\\Program.cs",
+              "RelativeToolTip": "sources\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:43:24.637Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
